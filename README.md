@@ -110,7 +110,6 @@ install.packages(c("caTools", "e1071", "rpart", "randomForest", "pROC"))
 source("scripts/wdbc_analysis.R")
 ```
 
-Tables and figures are written to `results/`.
 
 ## Possible extensions
 
